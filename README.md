@@ -1,409 +1,158 @@
 <div align="center">
 
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│       MOHAMED MUFASSIR                                     │
-│       Computer Systems Engineering Undergraduate            │
-│                                                            │
-│       Embedded Systems • Robotics • IoT • Software          │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,45&height=220&section=header&text=Mohamed%20Mufassir&fontSize=48&fontAlignY=38&animation=twinkling&desc=Computer%20Systems%20Engineering%20Undergraduate&descAlignY=58&descSize=20&fontColor=ffffff" width="100%" alt="Mohamed Mufassir header banner" />
 
-### ⚡ BUILDING AT THE EDGE OF HARDWARE & SOFTWARE
+<a href="https://mohamed-mufassir.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Building+at+the+edge+of+Hardware+%26+Software;Embedded+Systems+%E2%80%A2+Robotics+%E2%80%A2+IoT+%E2%80%A2+Full-Stack;Bridging+Electrons+to+Intelligent+Applications;BUILD+%E2%86%92+BREAK+%E2%86%92+UNDERSTAND+%E2%86%92+REBUILD" alt="Typing introduction" /></a>
 
 <p>
-  <a href="https://mohamed-mufassir.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://lk.linkedin.com/in/mohamedmufassir">💼 LinkedIn</a> •
-  <a href="mailto:mufassirriswan@gmail.com">📧 Email</a> •
-  <a href="https://github.com/M-Mufassir">💻 GitHub</a>
+  <a href="https://mohamed-mufassir.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=google-chrome&logoColor=00D2FF" alt="Portfolio" /></a>
+  <a href="https://lk.linkedin.com/in/mohamedmufassir"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mufassirriswan@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/M-Mufassir"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-```text
-BUILD → BREAK → UNDERSTAND → REBUILD
-```
+<img src="https://komarev.com/ghpvc/?username=M-Mufassir&style=flat-square&color=00D2FF&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## ABOUT ME
-
-I'm **Mohamed Mufassir**, a Computer Systems Engineering undergraduate at **SLIIT** with a strong interest in systems that connect hardware, software and the physical world.
-
-My work focuses on:
+## ⚡ ARCHITECTURAL PIPELINE
 
 ```text
-Embedded Systems • Robotics • IoT • Control Systems
-Computer Vision • Networking • Full-Stack Software
+SENSORS ───► MCU / FIRMWARE ───► PROTOCOLS ───► BACKEND / CLOUD ───► APPLICATIONS ───► INTELLIGENCE
 ```
 
-I enjoy moving across the complete system:
+> *"Don't just write code for the computer. Understand the physics of the silicon, the timing of the signals, and the architecture of the distributed system."*
+
+## 👨‍💻 ABOUT ME
+
+I'm **Mohamed Mufassir**, a Computer Systems Engineering undergraduate at **SLIIT** focused on systems that connect low-level hardware, real-time control, and modern software architectures.
+
+- **Core domains:** Embedded Systems, Robotics, IoT, Control Systems, Computer Vision, Networking, and Full-Stack Engineering.
+- **Engineering loop:** `THEORY` → `CIRCUITS` → `FIRMWARE` → `SIMULATION` → `INTEGRATION` → `DEBUGGING`.
+- **Target:** Build dependable systems across layers, from register manipulation to cloud telemetry and intelligent automation.
+
+## 🛠️ TECHNICAL ARSENAL
+
+### Embedded Systems & Hardware
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![AVR Assembly](https://img.shields.io/badge/AVR%20Assembly-111827?style=for-the-badge&logo=microchip&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+Embedded C/C++, AVR Assembly, GPIO, interrupts, hardware timers, watchdog timers, PWM motor control, sensors and actuators, encoder feedback, PCB prototyping, UART, I²C, SPI, and RS-485.
+
+### Robotics, Vision & Control
+
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=gazebo&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+Differential-drive kinematics, robot arms, URDF, `ros2_control`, autonomous navigation, PID / PI tuning, transfer functions, anti-windup logic, Gazebo simulation, OpenCV, and MediaPipe.
+
+### IoT, Connectivity & Networking
+
+![LoRa](https://img.shields.io/badge/LoRa-FF6600?style=for-the-badge&logo=semtech&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge&logo=wireshark&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-111827?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+LoRa, Wi-Fi, Bluetooth, TCP/IP, UDP, HTTP/REST, WebSockets, sensor networks, edge-to-cloud telemetry, remote monitoring, and Telegram bot alerting.
+
+### Software Engineering & Tooling
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+Python, TypeScript, React, Java, Spring Boot, Node.js, PyQt, Electron, MySQL, PostgreSQL, SQLite, Docker, Git/GitHub, and Linux CLI.
+
+## 🚀 FEATURED PROJECTS
+
+### 01. AquaLoRa — Smart Aquaculture Monitoring
+
+End-to-end water-quality telemetry for aquaculture environments.
 
 ```text
-Sensors
-   ↓
-Microcontrollers
-   ↓
-Firmware
-   ↓
-Communication
-   ↓
-Backend Systems
-   ↓
-Applications
-   ↓
-Intelligent Devices
+[ pH • TDS • Turbidity • Temperature Sensors ]
+                         │
+                         ▼
+                 [ LoRa Sensor Node ]
+                         │
+                         ▼
+                 [ LoRa Master Node ] ──► UDP / Wi-Fi
+                         │
+                         ▼
+              [ Database • Dashboard • Alerts ]
 ```
 
-My goal is to become an engineer capable of designing reliable systems across multiple layers — from low-level hardware control to software applications and intelligent automation.
+ESP32 sensor nodes collect pH, turbidity, TDS, and DS18B20 temperature readings. A LoRa link forwards the data to a master hub for packet handling, database storage, dashboards, and threshold alerts.
 
----
+### 02. Real-Time PID Motor Speed Controller
 
-## ENGINEERING FOCUS
+Closed-loop DC motor velocity control using Raspberry Pi, encoder feedback, and high-frequency PWM.
 
 ```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  EMBEDDED SYSTEMS       ROBOTICS       IoT & CONNECTIVITY  │
-│                                                            │
-│  CONTROL SYSTEMS        COMPUTER VISION                    │
-│                                                            │
-│  NETWORKING              SOFTWARE ENGINEERING               │
-│                                                            │
-│  COMPUTER ARCHITECTURE  INTELLIGENT SYSTEMS                │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
+TARGET RPM ──► PID CONTROLLER ──► PWM ──► L298N ──► DC MOTOR
+     ▲                                             │
+     └────────────── ENCODER FEEDBACK ◄────────────┘
 ```
 
-### My system-building approach
+Built with a Raspberry Pi 4B, L298N driver, encoder-equipped motor, custom PCB, live RPM telemetry, GUI tuning, CSV logging, moving-average noise suppression, and MATLAB/Simulink validation.
+
+[View the PID Motor Controller repository](https://github.com/M-Mufassir/PID-Motor-Controller-Application)
+
+### 03. Bare-Metal AVR Assembly Line-Following Robot
+
+An ATmega328P line-following and parking robot implemented in AVR Assembly.
 
 ```text
-Hardware → Firmware → Communication → Backend → Application
+IR ARRAY ──► REGISTER-LEVEL FIRMWARE ──► STATE MACHINE ──► TIMER1 PWM ──► DIFFERENTIAL DRIVE
 ```
 
-I learn by connecting theory with implementation:
+The firmware configures `DDRx`, `PORTx`, and `PINx` directly, processes a three-sensor array, detects cross-lines, responds to an IR trigger, and executes an autonomous parking sequence.
+
+### 04. ESP32 Gesture-Controlled Robot
+
+Computer vision meets embedded control in a low-latency robotic vehicle.
 
 ```text
-THEORY → CIRCUIT → CODE → HARDWARE → TESTING → DEBUGGING
+CAMERA ──► MEDIAPIPE ──► OPENCV ──► PYQT BRIDGE ──► WI-FI / HTTP ──► ESP32 ──► MOTORS
 ```
 
----
+Python, MediaPipe, and OpenCV classify hand gestures while a PyQt dashboard sends commands to an ESP32. The vehicle executes smooth directional control with network and safety timeouts.
 
-# TECHNICAL SKILLS
+### 05. CLIMS — Smart Entry & Surveillance System
 
-## Embedded Systems & Hardware
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR%20Assembly-000000?style=flat-square)
-
-- Embedded C/C++
-- AVR Assembly
-- ESP32 and Arduino
-- Raspberry Pi
-- Sensors and actuators
-- GPIO, interrupts and timers
-- PWM motor control
-- UART, I²C and SPI
-- Encoder feedback
-- IR sensors
-- Motor drivers
-- Electronics and prototyping
-- PCB and circuit design
-
-## Robotics & Control
-
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FFB71B?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-- Differential-drive robots
-- Autonomous line-following robots
-- Robot arms
-- PID and PI control
-- Servo systems
-- Encoder-based feedback
-- PWM-based motor control
-- ROS 2
-- URDF
-- Gazebo
-- `ros2_control`
-- Robotics simulation
-- Autonomous navigation
-
-## IoT, Networking & Communication
-
-- LoRa communication
-- Wi-Fi and Bluetooth
-- TCP/IP and UDP
-- HTTP communication
-- ESP32 networking
-- Sensor networks
-- Edge-to-cloud systems
-- Remote monitoring
-- Telegram bot integration
-- IoT dashboards and alerts
-
-## Software Engineering
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-- Python
-- React
-- TypeScript
-- Java
-- Spring Boot
-- Node.js
-- REST APIs
-- PyQt
-- OpenCV
-- MediaPipe
-- Electron
-- MySQL
-- PostgreSQL
-- SQLite
-- Docker
-- Git and GitHub
-- Linux
-
----
-
-# FEATURED PROJECTS
-
-## 🌊 AquaLoRa — Smart Aquaculture Monitoring
-
-An IoT-based monitoring system designed for fish and prawn farming.
+An ESP32-CAM security platform combining perimeter sensing, image capture, and remote control.
 
 ```text
-Sensors
-   ↓
-Sensor Node
-   ↓
-LoRa Communication
-   ↓
-Master Node
-   ↓
-UDP / Wi-Fi
-   ↓
-Desktop Dashboard
-   ↓
-Database
-   ↓
-Mobile Application
+MOTION / REED SENSORS ──► ESP32-CAM ──► IMAGE CAPTURE ──► TELEGRAM ALERT ──► REMOTE CONTROL
 ```
 
-### System capabilities
+### 06. Full-Stack Collaborative Learning Management System
 
-- Temperature monitoring
-- Water-quality monitoring
-- pH measurement
-- Turbidity measurement
-- TDS measurement
-- Long-range LoRa communication
-- Remote monitoring
-- Alert notifications
-- Dashboard-based visualization
+A React and Spring Boot platform with role-based access control, student and teacher dashboards, course management, assignment processing, automatic quiz grading, file handling, and transactional MySQL persistence.
 
-This project combines embedded hardware, wireless communication, networking, databases and application development into a complete IoT architecture.
+## 📈 SYSTEM TELEMETRY
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Mufassir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Mufassir&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=M-Mufassir&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
-## ⚙️ Real-Time PID Motor Control System
+## 🔭 HORIZONS & RESEARCH
 
-A closed-loop DC motor speed control system using Raspberry Pi, encoder feedback and PWM motor control.
+| Active focus | Future trajectory |
+| --- | --- |
+| ROS 2 Navigation Stack (Nav2) | Edge AI and TinyML inference |
+| URDF and Gazebo kinematic physics | FPGA and VHDL |
+| Embedded Linux (Yocto / Buildroot) | Industrial automation (CAN / Modbus) |
+| Hardware-in-the-loop testing | Visual odometry and SLAM |
+
+## 💡 ENGINEERING PHILOSOPHY
 
 ```text
-Target RPM
-    ↓
-PID Controller
-    ↓
-PWM Signal
-    ↓
-Motor Driver
-    ↓
-DC Motor
-    ↓
-Encoder Feedback
-    └──────────────→ Controller
+THEORY ──► CIRCUIT ──► FIRMWARE ──► HARDWARE ──► TESTING ──► FAILURE ──► DEBUGGING ──► REBUILD
 ```
 
-### Hardware and tools
+> The best learning happens when the system does not work. Sometimes the greatest teacher is not the compiler, but the smoke coming from the breadboard.
 
-- Raspberry Pi 4B
-- L298N motor driver
-- DC motor with encoder
-- Python
-- MATLAB / Simulink
-- Custom PCB design
-
-### Implemented features
-
-- Real-time encoder feedback
-- PWM-based speed control
-- PI/PID tuning
-- Live RPM monitoring
-- GUI parameter adjustment
-- CSV data logging
-- Performance analysis
-- Closed-loop simulation
-- Encoder noise reduction
-
-[View PID Motor Controller Repository](https://github.com/M-Mufassir/PID-Motor-Controller-Application)
-
----
-
-## 🤖 AVR Assembly Line-Following Robot
-
-An autonomous line-following and parking robot developed using AVR Assembly on an Arduino Uno platform.
-
-```text
-IR Sensors
-    ↓
-AVR Assembly Firmware
-    ↓
-Decision Logic
-    ↓
-PWM Motor Control
-    ↓
-Differential-Drive Robot
-```
-
-### Key features
-
-- Three-sensor line detection
-- Real-time sensor processing
-- PWM-based differential motor control
-- Cross-line detection
-- Autonomous parking
-- IR-triggered parking mode
-- State-based firmware architecture
-- Low-level register control
-
-### Hardware
-
-- Arduino Uno
-- ATmega328P
-- L298N motor driver
-- IR line sensors
-- IR receiver module
-- DC motors
-
-This project strengthened my understanding of low-level programming, firmware design, real-time control and microcontroller hardware registers.
-
----
-
-## 🖐️ ESP32 Gesture-Controlled Robot
-
-A computer-vision-controlled robotic vehicle built using Python, OpenCV, MediaPipe and ESP32.
-
-```text
-Camera
-   ↓
-OpenCV
-   ↓
-MediaPipe
-   ↓
-Gesture Recognition
-   ↓
-PyQt Application
-   ↓
-Wi-Fi / HTTP
-   ↓
-ESP32
-   ↓
-Motor Driver
-   ↓
-Robot
-```
-
-### Technologies used
-
-- Python
-- OpenCV
-- MediaPipe
-- PyQt
-- ESP32
-- HTTP communication
-- L298N motor driver
-
-The project helped me understand how computer vision, desktop applications, networking and embedded firmware interact as one complete system.
-
----
-
-## 📷 CLIMS — Smart Entry Detection System
-
-A smart surveillance and entry-detection system using ESP32-CAM, sensors and Telegram-based remote control.
-
-```text
-Entry Sensors
-    ↓
-ESP32-CAM
-    ↓
-Image Capture
-    ↓
-Telegram Notification
-    ↓
-Remote User
-    ↓
-Door Control
-```
-
-### Features
-
-- Unauthorized-entry detection
-- ESP32-CAM image capture
-- Buzzer alerts
-- Visual warning indicators
-- Telegram notifications
-- Remote image review
-- Remote door-lock control
-
-This project explored embedded security systems, remote notifications, image capture and IoT-based access control.
-
----
-
-## 📚 Full-Stack Learning Management System
-
-A collaborative full-stack web application designed for tutoring and online learning environments.
-
-### Technologies
-
-- React
-- Java
-- Spring Boot
-- MySQL
-- REST APIs
-
-### Main modules
-
-- Role-based authentication
-- Course management
-- Student enrollment
-- Payment management
-- Quiz and assignment system
-- Teacher management
-- File upload and download
-- Automatic quiz grading
-- Student and teacher dashboards
-
-This project strengthened my understanding of full-stack development, database design, REST APIs, modular architecture and team collaboration.
-
----
-
-# CURRENTLY LEARNING
-
-## Embedded Systems
+### Build. Break. Understand. Rebuild.
 
 - Advanced Embedded C/C++
 - AVR architecture
