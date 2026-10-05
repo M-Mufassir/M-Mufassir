@@ -3,69 +3,97 @@
 ```text
 ╭────────────────────────────────────────────────────────────╮
 │                                                            │
-│       MUFASSIR                                              │
-│       Computer Systems Engineering                          │
+│       MOHAMED MUFASSIR                                     │
+│       Computer Systems Engineering Undergraduate            │
 │                                                            │
-│       Embedded Systems  •  Robotics  •  IoT  •  Software  │
-│                                                            │
-│       [ Portfolio ] [ LinkedIn ] [ Email ] [ Projects ]   │
+│       Embedded Systems • Robotics • IoT • Software          │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
 ```
 
 ### ⚡ BUILDING AT THE EDGE OF HARDWARE & SOFTWARE
 
-[🌐 Portfolio](https://mufassir.dev) •
-[💼 LinkedIn](https://www.linkedin.com) •
-[📧 Email](mailto:mufassirriswan@gmail.com) •
-[🚀 Projects](#featured-projects)
+<p>
+  <a href="https://mohamed-mufassir.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://lk.linkedin.com/in/mohamedmufassir">💼 LinkedIn</a> •
+  <a href="mailto:mufassirriswan@gmail.com">📧 Email</a> •
+  <a href="https://github.com/M-Mufassir">💻 GitHub</a>
+</p>
+
+```text
+BUILD → BREAK → UNDERSTAND → REBUILD
+```
 
 </div>
 
 ---
 
-## ABOUT
+## ABOUT ME
 
-I'm **Mufassir**, a Computer Systems Engineering undergraduate interested in building systems that connect the physical world with software.
+I'm **Mohamed Mufassir**, a Computer Systems Engineering undergraduate at **SLIIT** with a strong interest in systems that connect hardware, software and the physical world.
 
-My work spans:
-
-```text
-Sensors → Microcontrollers → Firmware → Communication
-        → Backend / Cloud → Applications → Intelligent Systems
-```
-
-I enjoy understanding how systems work underneath the abstraction — from PWM signals, encoder feedback and communication protocols to robotics, networking and full-stack applications.
+My work focuses on:
 
 ```text
-Engineering student turning ideas into
-working systems.
+Embedded Systems • Robotics • IoT • Control Systems
+Computer Vision • Networking • Full-Stack Software
 ```
+
+I enjoy moving across the complete system:
+
+```text
+Sensors
+   ↓
+Microcontrollers
+   ↓
+Firmware
+   ↓
+Communication
+   ↓
+Backend Systems
+   ↓
+Applications
+   ↓
+Intelligent Devices
+```
+
+My goal is to become an engineer capable of designing reliable systems across multiple layers — from low-level hardware control to software applications and intelligent automation.
 
 ---
 
 ## ENGINEERING FOCUS
 
 ```text
-        EMBEDDED       ROBOTICS       IoT
-        ────────       ────────       ───
-
-        Firmware       Control        Connectivity
-        Hardware       Automation      Monitoring
-        Electronics    Simulation      Edge Systems
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  EMBEDDED SYSTEMS       ROBOTICS       IoT & CONNECTIVITY  │
+│                                                            │
+│  CONTROL SYSTEMS        COMPUTER VISION                    │
+│                                                            │
+│  NETWORKING              SOFTWARE ENGINEERING               │
+│                                                            │
+│  COMPUTER ARCHITECTURE  INTELLIGENT SYSTEMS                │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
-My long-term direction is to design complete intelligent systems:
+### My system-building approach
 
 ```text
-HARDWARE → FIRMWARE → COMMUNICATION → BACKEND → APPLICATION
+Hardware → Firmware → Communication → Backend → Application
+```
+
+I learn by connecting theory with implementation:
+
+```text
+THEORY → CIRCUIT → CODE → HARDWARE → TESTING → DEBUGGING
 ```
 
 ---
 
-## TECH STACK
+# TECHNICAL SKILLS
 
-### Embedded Systems & Hardware
+## Embedded Systems & Hardware
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -73,64 +101,81 @@ HARDWARE → FIRMWARE → COMMUNICATION → BACKEND → APPLICATION
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR%20Assembly-000000?style=flat-square)
 
 - Embedded C/C++
-- Microcontrollers
+- AVR Assembly
 - ESP32 and Arduino
 - Raspberry Pi
 - Sensors and actuators
 - GPIO, interrupts and timers
-- PWM and motor control
+- PWM motor control
 - UART, I²C and SPI
-- Encoders and feedback systems
+- Encoder feedback
+- IR sensors
+- Motor drivers
 - Electronics and prototyping
 - PCB and circuit design
 
-### Robotics & Control
+## Robotics & Control
 
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FFB71B?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 - Differential-drive robots
-- PID control
-- Motor and servo systems
-- Encoder feedback
+- Autonomous line-following robots
+- Robot arms
+- PID and PI control
+- Servo systems
+- Encoder-based feedback
+- PWM-based motor control
 - ROS 2
 - URDF
-- Gazebo simulation
+- Gazebo
 - `ros2_control`
-- Robot arms
-- Computer vision integration
+- Robotics simulation
+- Autonomous navigation
 
-### IoT & Communication
+## IoT, Networking & Communication
 
-- LoRa and long-range communication
+- LoRa communication
 - Wi-Fi and Bluetooth
 - TCP/IP and UDP
 - HTTP communication
+- ESP32 networking
 - Sensor networks
-- Edge-to-cloud architectures
-- Remote monitoring systems
+- Edge-to-cloud systems
+- Remote monitoring
+- Telegram bot integration
 - IoT dashboards and alerts
 
-### Software Engineering
+## Software Engineering
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- React and TypeScript
+- Python
+- React
+- TypeScript
+- Java
+- Spring Boot
 - Node.js
 - REST APIs
-- Spring Boot
-- Python applications
+- PyQt
+- OpenCV
+- MediaPipe
 - Electron
-- SQLite, MySQL and PostgreSQL
+- MySQL
+- PostgreSQL
+- SQLite
 - Docker
 - Git and GitHub
-- Linux and networking
+- Linux
 
 ---
 
@@ -138,14 +183,14 @@ HARDWARE → FIRMWARE → COMMUNICATION → BACKEND → APPLICATION
 
 ## 🌊 AquaLoRa — Smart Aquaculture Monitoring
 
-An IoT-based monitoring system for fish and prawn farming.
+An IoT-based monitoring system designed for fish and prawn farming.
 
 ```text
 Sensors
    ↓
 Sensor Node
    ↓
-LoRa
+LoRa Communication
    ↓
 Master Node
    ↓
@@ -153,32 +198,30 @@ UDP / Wi-Fi
    ↓
 Desktop Dashboard
    ↓
-Web Database
+Database
    ↓
 Mobile Application
 ```
 
-The system focuses on monitoring:
+### System capabilities
 
-- Temperature
-- Water quality
-- pH
-- Turbidity
-- TDS
+- Temperature monitoring
+- Water-quality monitoring
+- pH measurement
+- Turbidity measurement
+- TDS measurement
 - Long-range LoRa communication
-- Alerts and remote monitoring
+- Remote monitoring
+- Alert notifications
+- Dashboard-based visualization
 
-AquaLoRa combines embedded systems, wireless communication, networking, databases and application development into one complete IoT architecture.
+This project combines embedded hardware, wireless communication, networking, databases and application development into a complete IoT architecture.
 
 ---
 
-## ⚙️ PID Motor Controller
+## ⚙️ Real-Time PID Motor Control System
 
-A closed-loop motor control system built with:
-
-```text
-Raspberry Pi 4 + L298N + Encoder Motor
-```
+A closed-loop DC motor speed control system using Raspberry Pi, encoder feedback and PWM motor control.
 
 ```text
 Target RPM
@@ -192,33 +235,90 @@ Motor Driver
 DC Motor
     ↓
 Encoder Feedback
+    └──────────────→ Controller
 ```
 
-Implemented features include:
+### Hardware and tools
 
-- Encoder-based speed measurement
-- PWM motor control
-- PID control
-- Real-time monitoring
-- GUI and CLI modes
-- Data logging
-- CSV analysis
-- Simulation mode
+- Raspberry Pi 4B
+- L298N motor driver
+- DC motor with encoder
+- Python
+- MATLAB / Simulink
+- Custom PCB design
+
+### Implemented features
+
+- Real-time encoder feedback
+- PWM-based speed control
+- PI/PID tuning
+- Live RPM monitoring
+- GUI parameter adjustment
+- CSV data logging
+- Performance analysis
+- Closed-loop simulation
+- Encoder noise reduction
+
+[View PID Motor Controller Repository](https://github.com/M-Mufassir/PID-Motor-Controller-Application)
 
 ---
 
-## 🤖 ESP32 Gesture-Controlled Robot
+## 🤖 AVR Assembly Line-Following Robot
 
-A Wi-Fi-controlled robotic vehicle using computer vision.
+An autonomous line-following and parking robot developed using AVR Assembly on an Arduino Uno platform.
+
+```text
+IR Sensors
+    ↓
+AVR Assembly Firmware
+    ↓
+Decision Logic
+    ↓
+PWM Motor Control
+    ↓
+Differential-Drive Robot
+```
+
+### Key features
+
+- Three-sensor line detection
+- Real-time sensor processing
+- PWM-based differential motor control
+- Cross-line detection
+- Autonomous parking
+- IR-triggered parking mode
+- State-based firmware architecture
+- Low-level register control
+
+### Hardware
+
+- Arduino Uno
+- ATmega328P
+- L298N motor driver
+- IR line sensors
+- IR receiver module
+- DC motors
+
+This project strengthened my understanding of low-level programming, firmware design, real-time control and microcontroller hardware registers.
+
+---
+
+## 🖐️ ESP32 Gesture-Controlled Robot
+
+A computer-vision-controlled robotic vehicle built using Python, OpenCV, MediaPipe and ESP32.
 
 ```text
 Camera
+   ↓
+OpenCV
    ↓
 MediaPipe
    ↓
 Gesture Recognition
    ↓
-Wi-Fi
+PyQt Application
+   ↓
+Wi-Fi / HTTP
    ↓
 ESP32
    ↓
@@ -227,60 +327,97 @@ Motor Driver
 Robot
 ```
 
-Explored concepts:
+### Technologies used
 
-- ESP32 Wi-Fi communication
-- HTTP control
+- Python
+- OpenCV
 - MediaPipe
-- Computer vision
-- Real-time commands
-- Embedded motor control
+- PyQt
+- ESP32
+- HTTP communication
+- L298N motor driver
+
+The project helped me understand how computer vision, desktop applications, networking and embedded firmware interact as one complete system.
 
 ---
 
-## 📷 ESP32-CAM Robot
+## 📷 CLIMS — Smart Entry Detection System
 
-A low-cost robotic platform combining:
+A smart surveillance and entry-detection system using ESP32-CAM, sensors and Telegram-based remote control.
 
-- ESP32-CAM
-- Wi-Fi video streaming
-- Remote joystick control
-- Motor control
-- Mobile interface
+```text
+Entry Sensors
+    ↓
+ESP32-CAM
+    ↓
+Image Capture
+    ↓
+Telegram Notification
+    ↓
+Remote User
+    ↓
+Door Control
+```
 
-This project explores how embedded hardware, networking and software interfaces can work together to create remotely operated robotic systems.
+### Features
+
+- Unauthorized-entry detection
+- ESP32-CAM image capture
+- Buzzer alerts
+- Visual warning indicators
+- Telegram notifications
+- Remote image review
+- Remote door-lock control
+
+This project explored embedded security systems, remote notifications, image capture and IoT-based access control.
 
 ---
 
-## 🦾 Robotic Arm
+## 📚 Full-Stack Learning Management System
 
-A multi-servo robotic arm project focused on:
+A collaborative full-stack web application designed for tutoring and online learning environments.
 
-- Servo control
-- Mechanical design
-- Gear mechanisms
-- ESP32-based control
-- Robotic motion
-- Embedded systems
+### Technologies
 
-The long-term goal is to explore robotic manipulation and intelligent control.
+- React
+- Java
+- Spring Boot
+- MySQL
+- REST APIs
+
+### Main modules
+
+- Role-based authentication
+- Course management
+- Student enrollment
+- Payment management
+- Quiz and assignment system
+- Teacher management
+- File upload and download
+- Automatic quiz grading
+- Student and teacher dashboards
+
+This project strengthened my understanding of full-stack development, database design, REST APIs, modular architecture and team collaboration.
 
 ---
 
-## CURRENTLY LEARNING
+# CURRENTLY LEARNING
 
-### Embedded Systems
+## Embedded Systems
 
 - Advanced Embedded C/C++
+- AVR architecture
 - Real-time systems
 - Microcontroller architecture
 - Hardware debugging
 - Communication protocols
 - PCB design
+- Embedded Linux
 
-### Robotics
+## Robotics
 
 - ROS 2
+- Robot modeling
 - URDF
 - Gazebo
 - `ros2_control`
@@ -288,8 +425,9 @@ The long-term goal is to explore robotic manipulation and intelligent control.
 - Navigation
 - Perception
 - Autonomous robotics
+- Robot manipulation
 
-### Systems & Architecture
+## Systems & Architecture
 
 - Computer architecture
 - Digital systems
@@ -297,8 +435,9 @@ The long-term goal is to explore robotic manipulation and intelligent control.
 - Operating systems
 - Linux
 - Computer networking
+- Control systems
 
-### Intelligent Systems
+## Intelligent Systems
 
 ```text
 Robotics + Embedded Systems + AI + Computer Vision
@@ -306,14 +445,14 @@ Robotics + Embedded Systems + AI + Computer Vision
 
 ---
 
-## CURRENTLY EXPLORING
+# CURRENTLY EXPLORING
 
 ```text
 ROS 2 → Autonomous Robotics → Edge AI
 FPGA → Embedded AI → Industrial Automation
 ```
 
-Areas I want to explore further:
+Future areas of interest:
 
 - Autonomous robots
 - Edge AI
@@ -329,29 +468,29 @@ Areas I want to explore further:
 
 ---
 
-## ENGINEERING PHILOSOPHY
+# ENGINEERING PHILOSOPHY
 
 > **Don't just learn the technology. Understand the system.**
 
-My learning process:
-
 ```text
-THEORY
+Theory
    ↓
-CIRCUIT
+Circuit
    ↓
-CODE
+Code
    ↓
-HARDWARE
+Hardware
    ↓
-TESTING
+Testing
    ↓
-FAILURE
+Failure
    ↓
-DEBUGGING
+Debugging
    ↓
-IMPROVEMENT
+Improvement
 ```
+
+The best learning often happens when the system does not work.
 
 Sometimes the best teacher is not the compiler.
 
@@ -359,7 +498,7 @@ It's the smoke coming from the breadboard. 😂
 
 ---
 
-## GITHUB ACTIVITY
+# GITHUB ACTIVITY
 
 <div align="center">
 
@@ -375,7 +514,7 @@ It's the smoke coming from the breadboard. 😂
 
 ---
 
-## MISSION
+# MISSION
 
 ```text
 Learn deeply.
@@ -394,25 +533,34 @@ ELECTRONS → FIRMWARE → NETWORKS → SOFTWARE → INTELLIGENCE
 
 ---
 
-## LET'S CONNECT
+# LET'S CONNECT
 
-If you're interested in:
+Interested in:
 
 ```text
-Embedded Systems • Robotics • IoT • Computer Systems
-Automation • Networking • Open Source
+Embedded Systems • Robotics • IoT
+Computer Vision • Automation • Networking
+Software Engineering • Open Source
 ```
 
-I'd love to connect, collaborate and build something useful.
+Let's connect, collaborate and build something useful.
 
 <div align="center">
+
+[🌐 Visit My Portfolio](https://mohamed-mufassir.vercel.app/)
+
+[💼 Connect on LinkedIn](https://lk.linkedin.com/in/mohamedmufassir)
+
+[💻 Explore My GitHub](https://github.com/M-Mufassir)
+
+[📧 Send Me an Email](mailto:mufassirriswan@gmail.com)
+
+<br />
 
 ```text
 BUILD → BREAK → UNDERSTAND → REBUILD
 ```
 
 ### 🚀 Build. Break. Understand. Rebuild.
-
-**MUFASSIR.dev**
 
 </div>
